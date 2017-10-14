@@ -1,0 +1,16 @@
+C:\Users\Mithilesh\Documents\Projects\SodukuSolver\UnitTesting\obj\Debug\netcoreapp2.0\UnitTesting.csprojResolveAssemblyReference.cache
+C:\Users\Mithilesh\Documents\Projects\SodukuSolver\UnitTesting\obj\Debug\netcoreapp2.0\UnitTesting.csproj.CoreCompileInputs.cache
+C:\Users\Mithilesh\Documents\Projects\SodukuSolver\UnitTesting\obj\Debug\netcoreapp2.0\UnitTesting.AssemblyInfoInputs.cache
+C:\Users\Mithilesh\Documents\Projects\SodukuSolver\UnitTesting\obj\Debug\netcoreapp2.0\UnitTesting.AssemblyInfo.cs
+C:\Users\Mithilesh\Documents\Projects\SodukuSolver\UnitTesting\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Mithilesh\Documents\Projects\SodukuSolver\UnitTesting\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Mithilesh\Documents\Projects\SodukuSolver\UnitTesting\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Mithilesh\Documents\Projects\SodukuSolver\UnitTesting\bin\Debug\netcoreapp2.0\UnitTesting.deps.json
+C:\Users\Mithilesh\Documents\Projects\SodukuSolver\UnitTesting\bin\Debug\netcoreapp2.0\UnitTesting.runtimeconfig.json
+C:\Users\Mithilesh\Documents\Projects\SodukuSolver\UnitTesting\bin\Debug\netcoreapp2.0\UnitTesting.runtimeconfig.dev.json
+C:\Users\Mithilesh\Documents\Projects\SodukuSolver\UnitTesting\bin\Debug\netcoreapp2.0\UnitTesting.dll
+C:\Users\Mithilesh\Documents\Projects\SodukuSolver\UnitTesting\bin\Debug\netcoreapp2.0\UnitTesting.pdb
+C:\Users\Mithilesh\Documents\Projects\SodukuSolver\UnitTesting\bin\Debug\netcoreapp2.0\SodukuSolver.dll
+C:\Users\Mithilesh\Documents\Projects\SodukuSolver\UnitTesting\bin\Debug\netcoreapp2.0\SodukuSolver.pdb
+C:\Users\Mithilesh\Documents\Projects\SodukuSolver\UnitTesting\obj\Debug\netcoreapp2.0\UnitTesting.dll
+C:\Users\Mithilesh\Documents\Projects\SodukuSolver\UnitTesting\obj\Debug\netcoreapp2.0\UnitTesting.pdb

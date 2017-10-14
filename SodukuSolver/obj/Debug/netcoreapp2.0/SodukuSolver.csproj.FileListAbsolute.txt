@@ -1,0 +1,11 @@
+C:\Users\Mithilesh\Documents\Projects\SodukuSolver\SodukuSolver\bin\Debug\netcoreapp2.0\SodukuSolver.deps.json
+C:\Users\Mithilesh\Documents\Projects\SodukuSolver\SodukuSolver\bin\Debug\netcoreapp2.0\SodukuSolver.runtimeconfig.json
+C:\Users\Mithilesh\Documents\Projects\SodukuSolver\SodukuSolver\bin\Debug\netcoreapp2.0\SodukuSolver.runtimeconfig.dev.json
+C:\Users\Mithilesh\Documents\Projects\SodukuSolver\SodukuSolver\bin\Debug\netcoreapp2.0\SodukuSolver.dll
+C:\Users\Mithilesh\Documents\Projects\SodukuSolver\SodukuSolver\bin\Debug\netcoreapp2.0\SodukuSolver.pdb
+C:\Users\Mithilesh\Documents\Projects\SodukuSolver\SodukuSolver\obj\Debug\netcoreapp2.0\SodukuSolver.csprojResolveAssemblyReference.cache
+C:\Users\Mithilesh\Documents\Projects\SodukuSolver\SodukuSolver\obj\Debug\netcoreapp2.0\SodukuSolver.csproj.CoreCompileInputs.cache
+C:\Users\Mithilesh\Documents\Projects\SodukuSolver\SodukuSolver\obj\Debug\netcoreapp2.0\SodukuSolver.AssemblyInfoInputs.cache
+C:\Users\Mithilesh\Documents\Projects\SodukuSolver\SodukuSolver\obj\Debug\netcoreapp2.0\SodukuSolver.AssemblyInfo.cs
+C:\Users\Mithilesh\Documents\Projects\SodukuSolver\SodukuSolver\obj\Debug\netcoreapp2.0\SodukuSolver.dll
+C:\Users\Mithilesh\Documents\Projects\SodukuSolver\SodukuSolver\obj\Debug\netcoreapp2.0\SodukuSolver.pdb
